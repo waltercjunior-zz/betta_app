@@ -1,2 +1,2 @@
-# betta_project
-Betta project
+# betta_app
+Betta app
